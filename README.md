@@ -1,1 +1,1 @@
-Simulador de poker para jogar quando você tem o baralho mas não tem as fichas.
+Contador de fichas de poker para jogar só com o baralho: blinds, potes laterais, showdown automático e torneio. Funciona offline no celular.
